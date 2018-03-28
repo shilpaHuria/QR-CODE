@@ -141,7 +141,8 @@ Who's using it
 *Does your app use QRCodeReaderView? If you want to be featured on this list drop me a line.*
 
 * [Swapcard][2]
-
+LIccense
+----------
 
     Copyright 2017 David Lázaro
 
